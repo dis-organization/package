@@ -1,0 +1,12 @@
+Package: package
+Type: Package
+Title: Nothing Too Serious
+Version: 0.1.0
+Authors@R: person("Michael D.","Sumner", role = c("aut", "cre"), email =
+    "mdsumner@gmail.com")
+Description: A silly package with a silly function with silly names.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat
